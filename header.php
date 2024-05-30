@@ -69,6 +69,7 @@
                 <button class="button">
                     Quero saber mais
                 </button>
+                
                 <div class="disclaimer">
                     <span>Um produto:</span>
                     <img src="<?php echo get_template_directory_uri() . '/assets/img/pyxys-logo-4x.png'?>" height="40" width="130" loading="lazy" alt="Logo PYXYS">

@@ -255,7 +255,8 @@ header{
       margin-inline-end: 0px;
       unicode-bidi: isolate;
   }
-.box.button{
+
+.box .button{
       text-transform: uppercase;
       background-color: transparent;
       border-radius: 7px;
